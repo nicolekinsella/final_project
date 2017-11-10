@@ -1,0 +1,60 @@
+
+body{
+  background-image: url("project_pics/star_backround.gif");
+}
+
+#signanddate {
+  color: white;
+  font-family: serif;
+  font-size: 20px;
+}
+
+#pictable img{
+width:200px;
+height:200px;
+}
+h1 {
+  color:white;
+  font-family: serif;
+  font-size: 100px;
+}
+h2 {
+  color:white;
+  font-family: serif;
+  font-size: 60px;
+}
+h3 {
+  color:white;
+  font-family: serif;
+  font-size: 60px;
+}
+h4 {
+  color:white;
+  font-family: serif;
+  font-size: 60px;
+}
+p1{
+  color:white;
+  font-family: serif;
+  font-size: 40px;
+}
+p2{
+  color:white;
+  font-family: serif;
+  font-size: 40px;
+}
+p3{
+  color:white;
+  font-family: serif;
+  font-size: 40px;
+}
+p4{
+  color:white;
+  font-family: serif;
+  font-size: 40px;
+}
+h5{
+  color: white;
+  font-family: serif;
+  font-size: 60px;
+}
